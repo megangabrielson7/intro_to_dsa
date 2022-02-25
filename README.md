@@ -1,1 +1,3 @@
-# intro_to_dsa
+## SQ
+## Statistics
+## Visual Communications
